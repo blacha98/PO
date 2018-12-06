@@ -1,0 +1,5 @@
+public enum SpecialRoles{
+    PRESIDING_JUDGE,
+    REPORTING_JUGGE,
+    REASONS_FOR_JUDGMENT_AUTHOR
+}
